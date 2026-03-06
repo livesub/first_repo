@@ -1,0 +1,10 @@
+      'name': '대한민국',
+      'capital': '서울',
+      'population': '5,100만 명',
+      'continent': '아시아',
+      'currency': '원 (KRW)',
+      'language': '한국어',
+      'image': 'assets/korea.png',
+      'desc': '동아시아에 위치한 나라로, K-POP과 한류 문화, 반도체와 IT 강국으로 세계적으로 유명합니다. 한글이라는 독창적인 문자를 사용합니다.',
+
+
